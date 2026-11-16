@@ -12,13 +12,13 @@ I am the founder of **SkyQuant**, a research desk built in the right order: a co
 
 ### SkyQ RANGE — research engine
 
-A causal one-minute ETF research engine in Python and PostgreSQL with a React control center. The public record covers 67,271 SPY trades and 32,356 QQQ trades over 23 years, including 16/24 positive SPY years and ten futures contracts rejected after costs.
+A causal one-minute ETF research engine in Python and PostgreSQL with a React control center. The public record covers 67,271 SPY trades and 32,356 QQQ trades over 23 years, including 16/24 positive SPY years and ten futures contracts rejected after costs. The core suite has 54 tests and runs in CI.
 
-[View the repository →](https://github.com/CordiallyMel/SkyQ_RANGE)
+[View the repository →](https://github.com/CordiallyMel/SkyQ_RANGE) · [Dashboard and CI evidence →](https://github.com/CordiallyMel/SkyQ_RANGE#control-center)
 
 ### SkyQ Sigma S — execution platform
 
-An execution-aware backtest and paper-trading system built across five broker and market-data APIs, with a 160-test suite, crash recovery, order reconciliation, and an NYSE-aware calendar. The engine and methodology are available for a walkthrough; the live rule set is private.
+An execution-aware backtest and paper-trading system built across five broker and market-data APIs, with automated execution tests, crash recovery, order reconciliation, and an NYSE-aware calendar. The engine and methodology are available for a walkthrough; the live rule set is private.
 
 ### SkyQuant — research desk
 
